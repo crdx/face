@@ -1,0 +1,6 @@
+config.py
+*.pyc
+lib/
+notes.md
+py3env/
+py3envwin/

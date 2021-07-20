@@ -1,6 +1,8 @@
 # face
 
-**face** is a modular IRC bot. It's simply a glorified module loader that loads modules in the `modules` directory and passes IRC events on to it.
+**face** is a modular IRC bot.
+
+It's simply a glorified module loader that loads modules in the `modules` directory and passes IRC events on to them.
 
 ## Installation
 

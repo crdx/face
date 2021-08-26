@@ -26,7 +26,7 @@ Install the required packages.
 
 ## Bugs or contributions
 
-Open an [issue](http://github.com/crdx/face/issues) or send a [pull request](http://github.com/crdx/face/pulls).
+Open an [issue](https://github.com/crdx/face/issues) or send a [pull request](https://github.com/crdx/face/pulls).
 
 ## Licence
 

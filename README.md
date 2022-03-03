@@ -24,7 +24,7 @@ Install the required packages.
     source py3env/bin/activate
     python face.py
 
-## Bugs or contributions
+## Contributions
 
 Open an [issue](https://github.com/crdx/face/issues) or send a [pull request](https://github.com/crdx/face/pulls).
 
